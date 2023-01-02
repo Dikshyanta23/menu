@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fondamento&display=swap");
+.card-collection {
+  font-family: "Fondamento", cursive;
+}
+.card {
+}
+
+.titile {
+  font-family: "Fredericka the Great", cursive;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+.card-img-top {
+  height: 200px;
+}
+.header {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.button-section {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.btn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
